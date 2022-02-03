@@ -24,7 +24,14 @@
     <Compile Include="TunniPlan.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="11.gif" />
+    <Content Include="giphy-downsized-large.gif" />
+    <Content Include="L9mM.gif" />
+    <Content Include="mult.gif" />
+    <Content Include="programming.gif" />
+    <Content Include="putin.gif" />
     <Content Include="Tunnid_kirjeldused.txt" />
+    <Content Include="vladimir-putin-wink.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

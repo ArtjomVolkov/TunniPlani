@@ -1,15 +1,15 @@
-Multimeedia ->
-Programmeerimise alused ->
-Rühmajuhataja tund ->
-Inglise keel Grupp1 ->
-Inglise keel Grupp2 ->
-Operatsioonisüsteemide alused ->
-Kehaline kasvastus ->
-Eesti keel Grupp1 ->
-Eesti keel Grupp2 ->
-Ajalugu,inimgeograafia ja inimeseõpetus eesti keeles ->
-Kunstiained ->
-Andmebaasisüsteemide alused (eesti keeles) ->
-Keel ja kirjandus ->
-Matemaatika ->
-Suhtlemine ja klienditeenindus ->
+mult.gif:Ruum A-218 Pant Gert
+11.gif:Ruum E-07 Oleinik Marina
+Rühmajuhataja tund:Ruum E-07 Oleinik Marina
+Inglise keel Grupp1:Ruum B-138 Poskotinova Olga
+Inglise keel Grupp2:Ruum B-148 Þestjakova Ellina
+Operatsioonisüsteemide alused:Ruum A-243 Shkarbanova Lury
+Kehaline kasvastus:Võimla A Maksõmiv Maksim
+Eesti keel Grupp1:Ruum B-226 Peetrimägi Irina
+Eesti keel Grupp2:Ruum B-234 Ojamäe Olesja
+Ajalugu,inimgeograafia ja inimeseõpetus eesti keeles:Ruum B-238 Speek Mari
+Kunstiained:Ruum B-232 Norkevitð Aleksandra
+Andmebaasisüsteemide alused (eesti keeles):Ruum E-10 Merkulova Irina
+Keel ja kirjandus:Ruum B-221 Mihhailova Ljudmila
+Matemaatika:Ruum B-133 Voronova Nadeþda
+Suhtlemine ja klienditeenindus:Ruum B-003 Schumann Sirje
