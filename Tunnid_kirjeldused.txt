@@ -1,8 +1,8 @@
 mult.gif:Ruum A-218 Pant Gert
 11.gif:Ruum E-07 Oleinik Marina
-Rühmajuhataja tund:Ruum E-07 Oleinik Marina
-Inglise keel Grupp1:Ruum B-138 Poskotinova Olga
-Inglise keel Grupp2:Ruum B-148 Þestjakova Ellina
+class.gif:Ruum E-07 Oleinik Marina
+nigger.gif:Ruum B-138 Poskotinova Olga
+112.gif:Ruum B-148 Þestjakova Ellina
 Operatsioonisüsteemide alused:Ruum A-243 Shkarbanova Lury
 Kehaline kasvastus:Võimla A Maksõmiv Maksim
 Eesti keel Grupp1:Ruum B-226 Peetrimägi Irina

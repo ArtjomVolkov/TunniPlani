@@ -25,9 +25,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="11.gif" />
+    <Content Include="112.gif" />
+    <Content Include="class.gif" />
     <Content Include="giphy-downsized-large.gif" />
     <Content Include="L9mM.gif" />
     <Content Include="mult.gif" />
+    <Content Include="nigger.gif" />
     <Content Include="programming.gif" />
     <Content Include="putin.gif" />
     <Content Include="Tunnid_kirjeldused.txt" />
